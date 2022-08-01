@@ -29,6 +29,9 @@ url: "https://www.andyleblanc.com/wooblanc.github.io/" # the base hostname & pro
 twitter_username: jekyllrb
 github_username:  jekyll
 
+banner:
+  image: "assets/images/banners/home.jpeg"
+
 # Build settings
 #theme: minima
 remote_theme: "jeffreytse/jekyll-theme-yat"
