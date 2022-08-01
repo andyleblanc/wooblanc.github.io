@@ -5,7 +5,7 @@ date:   2013-10-14 00:00:00 -0500
 categories: life
 ---
 
-![two people getting married on a mountaintop at sunset](/assets/imags/10-12-2013.jpg)
+![two people getting married on a mountaintop at sunset](assets/imags/10-12-2013.jpg)
 
 # Location
     Grouse Mountain
