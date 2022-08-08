@@ -38,6 +38,7 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
+night_mode: "off"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,4 +59,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
