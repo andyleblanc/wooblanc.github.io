@@ -1,0 +1,30 @@
+.gallery_container {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.gallery_responsive-image {
+  max-width: 100%;
+}
+
+.gallery_cell img {
+  display: block;
+}
+
+
+@media screen and (min-width: 600px) {
+    .gallery_grid {
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+    .gallery_cell {
+      width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1000px) {
+    .gallery_cell {
+      width: calc(100% / 3);
+    }
+  }

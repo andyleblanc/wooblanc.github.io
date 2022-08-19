@@ -1,0 +1,6 @@
+<div class="gallery_cell">
+    <figure class="responsive-image">
+        <a href="{{ page.gallery_location | append: include.img_name }}"><img src="{{ page.gallery_location | append: 'thumbs/' | append: include.img_name }}" alt="{{ include.description }}"></a>
+        <figcaption>{{ include.description }}</figcaption>
+      </figure>
+</div>

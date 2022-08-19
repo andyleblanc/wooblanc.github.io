@@ -1,0 +1,133 @@
+---
+layout: post
+title:  "MAUI 2022!"
+date:   2022-08-19 00:00:00 -0500
+categories: life
+gallery_location: "/assets/images/maui2022/" 
+---
+
+<style type="text/css">
+.gallery_container {
+  margin: auto;
+  max-width: 1200px;
+}
+
+.responsive-image {
+  max-width: 100%;
+}
+
+.gallery_gallery_cell img {
+  display: block;
+}
+
+
+@media screen and (min-width: 600px) {
+  .gallery_grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .gallery_cell {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .gallery_cell {
+    width: calc(100% / 3);
+  }
+}
+</style>
+
+# MAUI 2022!
+
+At some point in the spring, the LeBlancs invited us to go to Maui with them.  After getting over our initial post-COVID travel terror, we had to get over our traveling-with-our-children terror, and finally we agreed.
+
+I don't know if travelling with 3 small(ish) children can rightly be called a "vacation" for the parents, but we had a lovely time, the kids (nicholas in particular) loved the experience, and everyone already wants to go back.
+
+## Passports
+There isn't much in the way of photographic evidence for this nightmare experience, and perhaps that's for the best.
+
+Nicky and Harrison needed passports for the trip. By the time we'd made our plans to travel, Canada's passport acquisition situation was a full and proper nightmare. I went to the line one morning just before opening and asked the person at the front of the line how long she'd been waiting.  She ignored me, but the second person in line said they'd been there since about 5:45am.  I took a vacation day, and the next day lined up at around 5am.  A number one, first in line.  Three and a half hours later, they finally opened the doors.  Got to the front counter, the clerk pulled out all of our papers.  "When are you planning on travelling?"  "About two months."  "Well... I hope you haven't bought your tickets yet."  "I have." "Hmmm... well, don't expect to get your passports in time."  Great.  She trailed a finger along each document annnnnnnnd... we were missing one signature.  "My wife is only ten minutes away," I sai, "can I just wait by the door for her to come and sign>"  "Nope," she said. "You have to leave and line up again." So I left.  The line was now wrapped all the way around the building.  I got into my car, closed the door, and said some cuss words quietly to myself until my throat was ruined and for the next two days it sounded like I had a bad cold.
+
+Came back again the next day.  Got the forms submitted.  We were given an estimated delivery date of June 17th.  Tight, but time enough for our flight on July 7th.
+
+The date came and went.  
+
+We called the passport line.  A thousand times.  Until we were finally one of the lucky two hundred to hit a queue.  An hour later, the clerk on the line told us to call back again when our flight was ten business days away, and ask for a transfer to a passport processing centre.
+
+Called again. Another thousand times. Got put in a transfer queue.
+
+The Friday before our flight, called the weekend emergency line and left a message.  Got properly transferred to the Surrey office.
+
+Showed up at the Surrey office for my appointment at 9:30am on a Tuesday.  Two days to go.  Waited in line for 30 minutes to get a number.  Waited until 5:45pm, and my number was finally called. Got a little slip saying my passport would be ready at 8:30am.  On Thursday.  The day of the flight.
+
+Showed up at 8:00am on the day of the flight, slip in hand.  Got to the front counter. The clerk tapped at his keyboard, bit his lip pensively, walked to the back and came back.  "Can you come back tomorrow?"  "No, my flight is today."  "Hmmm"... more thoughts and ponderings.  "How about come back at 2pm today?"  "I'm supposed to be at airport security screening at 2pm."  "1pm?" More haggling. 11:30am, final offer.
+
+So I left, picked up some travel snacks, deposited the car at home.  Helped with a little child management and trip prep, collected my bags, and got a ride with my friend Steven back to the passport office.
+
+I lined up and was denied three times.  Finally, at 1pm, a supervisor went into the back to check on my passports. Ten minutes later, they were in my hands.
+
+I guess being a terrible university student should have prepared me for ultra-last-minute assignment completion, but as a full grown adult, I don't care for it.
+
+
+{% include gallery_start.html %}
+
+{% include gallery_cell.html 
+    img_name="bags_surrey.jpg" 
+    description="My parents and I walked out of the Surrey Central Mall at 1pm with these bags and fresh passports in hand.  We were promptly stopped by a man in a van, who asked if we were heading straight from the passport office to the airport.  He then provided contact information for a friend of his who worked for a local news agency who covered stories like this." 
+%}
+{% include gallery_cell.html 
+    img_name="christ.jpg" 
+    description="Right next to the passport office was this law office.  For whatever reason, I don't know, every time I saw it I'd get a little chuckle.  Took some edge off of a complete trash situation." 
+%}
+
+{% include gallery_end.html %}
+
+## Flight
+It was a mad dash from the passport office to the airport. Jenny's dad drove Jenny and the boys from WooBlanc mansion in the family van, Andy and The LeBlancs hired an UBER from Surrey central.  LeBlancs arrived at ~2pm, Woos at ~2:30.  Four hours from flight time.  Phewf.
+
+{% include gallery_start.html %}
+
+{% include gallery_cell.html 
+    img_name="check_in.jpg" 
+    description="Baby's first check-in!  I think this is supposed to be all online-able nowadays, but heck if I know how to online check in the ten million baby and child items we had to bring." 
+%}
+
+{% include gallery_cell.html 
+    img_name="family_yvr_departure.jpg" 
+    description="Security and customs took a while. The kids handled it pretty well, because it was all a new and exciting experience for them.  At least until the tail end of hour-long wait at US customs pre-clearance, when they started to get hungry and bored. Once we hit the departure terminal, excitement picked up again." 
+%}
+
+{% include gallery_cell.html 
+    img_name="harry_looking_at_plane.jpg" 
+    description="Young Harry checking out our plane." 
+%}
+
+{% include gallery_cell.html 
+    img_name="jimmy_snacks.jpg" 
+    description="Despite the higher price, airport sandwiches are not particularly better than homemade sandwiches.  And, as at home, same level of giant mess.  At least the kids weren't complaining about hunger anymore." 
+%}
+
+{% include gallery_cell.html 
+    img_name="harry_takeoff.jpg" 
+    description="Young harrison totally psyched for his first flight.  He handled it pretty well.  None of that pressure-sensitive baby shrieking you hear about.  He managed to conk out at a reasonable time, too." 
+%}
+
+{% include gallery_cell.html 
+    img_name="nicky_daddy_takeoff.jpg" 
+    description="Here's Nicky, pretty psyched for his first flight.  He already wants to fly again.  Asking about our next plane trip frequently.  WE DON'T HAVE THAT KIND OF MONEY MY GUY!" 
+%}
+
+{% include gallery_cell.html 
+    img_name="flight1_view.jpg" 
+    description="After weeks of passport dread, days of full blown passport drama, packing and logistics of child management, we were finally airborne, and I could finally, finally relax.  Ahhhh." 
+%}
+
+{% include gallery_cell.html 
+    img_name="landed_maui.jpg" 
+    description="We landed in Maui at around 9:30pm local time.  For us, it felt like a robust thirty minutes past midnight.  Jenny, my mom and the kids watched our giant multitude of baggage and child items, while my dad and I boarded a little trolley to the car rental cluster. The lineup was only medium terrible, and we returned with vehicles around an hour later.  By the time we made it to the condo, our bodies felt like it was 2am." 
+%}
+
+
+{% include gallery_end.html %}
